@@ -19,3 +19,5 @@ conversation in a daily basis as people are able to discuss,express themselves a
 ## Wordcloud :
 ![image](https://user-images.githubusercontent.com/76562485/132939931-3e042369-b495-4733-8a13-4654a920adcd.png)                       ![image](https://user-images.githubusercontent.com/76562485/132939941-d11988b0-79a9-467e-bd24-cb026b3dd4a5.png)
 
+## Conclusion :
+from thiis we conclude that harmful or toxic comments in the social media space have many negative impacts to society. The ability to readily and accurately identify comments as toxic could provide many benefits while mitigating the harm.
