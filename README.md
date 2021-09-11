@@ -1,6 +1,6 @@
 # Toxic-Comment-Classification :
 
-                                                                                   ![image](https://user-images.githubusercontent.com/76562485/132940144-311a44ea-b758-4aec-8663-1a02a88e9dc7.png)
+                                          ![image](https://user-images.githubusercontent.com/76562485/132940144-311a44ea-b758-4aec-8663-1a02a88e9dc7.png)
 
 ![image](https://user-images.githubusercontent.com/76562485/132939987-36dab999-1e7e-4d36-840a-e6c67921a0ab.png)                          ![image](https://user-images.githubusercontent.com/76562485/132940096-e6b3240f-caa6-4e9a-8c0a-8c77ecd89edf.png)
 
